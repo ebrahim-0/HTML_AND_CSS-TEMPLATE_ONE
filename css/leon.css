@@ -388,3 +388,17 @@ body {
     font-size: 25px;
   }
 }
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background-color: #c8c8c8;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #10cab7;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
